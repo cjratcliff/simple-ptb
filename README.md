@@ -6,7 +6,7 @@ such as replacing their custom initialization scheme which was removed since it 
 It is based off of the [official TensorFlow tutorial for RNNs](https://github.com/tensorflow/models/tree/master/tutorials/rnn/ptb) but contains approximately half the lines of code.
 
 #### Requirements
--TensorFlow 1.2 (may work with 1.1 but this has not been tested)
--NumPy
+- TensorFlow 1.2 (may work with 1.1 but this has not been tested)     
+- NumPy
 
 
